@@ -1,0 +1,59 @@
+<relaton-collection xmlns="https://open.ribose.com/relaton-xml"><title>Calendar abuse</title><contributor><role type='author'/><organization><name>CalConnect</name></organization></contributor><relation type='partOf'><bibdata type="standard">
+  <title format="text/plain" language="en">Calendar operator practices — Guidelines to protect against calendar abuse</title>
+  <uri type="xml">documents/cc-18003.xml</uri>
+  <uri type="pdf">documents/cc-18003.pdf</uri>
+  <uri type="doc">documents/cc-18003.doc</uri>
+  <uri type="html">documents/cc-18003.html</uri>
+  <uri type="rxl">documents/cc-18003.rxl</uri>
+  <docidentifier type="csd">CC/R 18003:2019</docidentifier>
+  <docnumber>18003</docnumber>
+  <date type="published">
+    <on>2019-01-18</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>CalConnect</name>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <completename>Thomas Schäfer, 1&amp;amp;amp;1 Mail&amp;amp;amp;Media Development and Technology GmbH</completename>
+      </name>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <completename>Jesse Thompson, University of Wisconsin-Madison</completename>
+      </name>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>CalConnect</name>
+    </organization>
+  </contributor>
+  <edition>1</edition>
+  <version>
+    <revision-date>2019-01-18</revision-date>
+  </version>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage>published</stage>
+  </status>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>CalConnect</name>
+      </organization>
+    </owner>
+  </copyright>
+</bibdata></relation>
+</relaton-collection>
