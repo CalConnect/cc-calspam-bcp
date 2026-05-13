@@ -1,0 +1,5 @@
+# .metanorma/channels.yml — cc-calspam-bcp
+
+channels:
+  - name: public/standards
+    description: "CalConnect documents from cc-calspam-bcp"
