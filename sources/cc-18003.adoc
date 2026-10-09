@@ -49,6 +49,12 @@ This document was prepared by Technical Committee _{technical-committee}_.
 
 
 :sectnums!:
+[abstract]
+== Abstract
+
+This document specifies guidelines for calendar and mail system operators to detect the occurrence of calendar abuse, to consider processes and procedures to mitigate calendar abuse, and to suggest acceptable (non-abusive) practices with calendar usage.
+
+
 == Introduction
 
 === Rise of calendar spam
